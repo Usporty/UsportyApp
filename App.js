@@ -6,7 +6,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text>Usporty </Text>
-        <Text>Go pour un dev de folie !! </Text>
+        <Text>Go pour un dev de folie les KLAWI!! </Text>
       </View>
     );
   }
